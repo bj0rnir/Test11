@@ -1,0 +1,11 @@
+#ifndef _MACROS_H
+#define _MACROS_H
+#define RED "\x1b[31m"
+#define GREEN "\x1b[32m"
+#define YELLOW "\x1b[33m"
+#define BLUE "\x1b[34m"
+#define MAGENTA "\x1b[35m"
+#define CYAN ""
+
+#define ANSI_RESET "\x1b[0m"
+#endif
