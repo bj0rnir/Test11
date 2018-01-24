@@ -26,4 +26,5 @@
 #include <curl/curl.h>
 #include <time.h>
 #include <netdb.h>
+#include <assert.h>
 #endif
