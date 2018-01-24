@@ -5,7 +5,6 @@
 #define YELLOW "\x1b[33m"
 #define BLUE "\x1b[34m"
 #define MAGENTA "\x1b[35m"
-#define CYAN ""
-
+#define CYAN "\x1b[36m"
 #define ANSI_RESET "\x1b[0m"
 #endif
