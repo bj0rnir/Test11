@@ -1,6 +1,7 @@
 #ifndef _LOG_H
 #define _LOG_H
 #include <fstream>
+#include "colors.h"
 //  Definitions in /cpp/src/log.cpp
 extern std::ofstream LOG_FD;
 extern char CWD[1024];
